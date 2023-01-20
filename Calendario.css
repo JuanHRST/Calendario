@@ -1,0 +1,12 @@
+#ctn{
+    border: 5px;
+    padding: 10px;
+    color: yellow;
+    border-color: red;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: coral;
+}
